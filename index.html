@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,13 +8,25 @@
     <title>Personal Website</title>
     <link href="./src/output.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;700&display=swap" rel="stylesheet">
-</head>`
-<body class = "font-outfit">
-<div class="w-full bg-teal-600">
-    <div class="flex-auto flex-col">
-        <div class="flex-1">Hi, I am Oskar!</div>
-        <div class="flex-1"><img class="w-12" src="./media/portrait.jpg" alt="A portrait"></div>
+</head>
+
+<body class="font-outfit">
+    <div id="hero" class="w-full bg-teal-600">
+        <div class="grid grid-cols-3 p-4">
+            <!-- <div class="flex flex-row"> -->
+            <div class="col-span-2 self-center">
+                <p class="text-wrap text-3xl">Hi, my name is Oskar !</p>
+                <p class="text-xl">I am a PhD candidate in Optimization</p>
+            </div>
+            <div class=""><img class="w-32 bg rounded-md" src="./media/portrait.jpg" alt="A portrait"></div>
+        </div>
     </div>
-</div>
+
+    <div class="bg-blue-300 p-4">
+        <div class="font-bold text-lg underline-offset-4 underline">Experience</div>
+        Hello
+    </div>
 </body>
+
+
 </html>
