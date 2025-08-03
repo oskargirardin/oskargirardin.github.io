@@ -3,14 +3,6 @@
 
 @string{aps = {American Physical Society,}}
 
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
-}
-
 @book{einstein1956investigations,
   bibtex_show={true},
   title={Investigations on the Theory of the Brownian Movement},
@@ -57,7 +49,7 @@
   video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
   additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
   annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true},
+  selected={false},
   inspirehep_id = {3255}
 }
 
@@ -112,4 +104,23 @@
   publisher={Vision},
   preview={wave-mechanics.gif},
   abbr={Vision}
+}
+
+
+@inproceedings{10.1145/3712256.3726435,
+author = {Girardin, Oskar and Hansen, Nikolaus and Brockhoff, Dimo and Auger, Anne},
+title = {Classification-Based Linear Surrogate Modeling of Constraints for AL-CMA-ES},
+year = {2025},
+isbn = {9798400714658},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3712256.3726435},
+abstract = {We introduce linear surrogate functions for modeling inequality constraints to solve constrained blackbox optimization problems with the Augmented Lagrangian CMA-ES. Each surrogate is constructed from a binary classifier that predicts the sign of the constraint value. The classifier, and consequently the resulting algorithm, is invariant under sign preserving transformations of the constraint values and can handle binary, flat, and deceptive constraints. Somewhat surprisingly, we find that adopting a sign-based classification model of the constraints allows to solve classes of constrained problems which can not be solved with the original Augmented Lagrangian method using the true constraint value.},
+booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference},
+pages = {728–736},
+numpages = {9},
+google_scholar_id={u5HHmVD_uO8C},
+preview = {ALLS_CMA_ES.gif},
+selected={true},
+pdf={https://dl.acm.org/doi/pdf/10.1145/3712256.3726435},
 }
