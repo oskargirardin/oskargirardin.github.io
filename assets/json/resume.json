@@ -4,15 +4,10 @@
     "image": "Photodeprofil.jpeg",
     "email": "firstname.lastname@inria.fr",
     "url": "oskargirardin.github.io",
-    "profiles": [
-    ]
+    "profiles": []
   },
-  "work": [
-    
-  ],
-  "volunteer": [
-    
-  ],
+  "work": [],
+  "volunteer": [],
   "education": [
     {
       "institution": "Ecole polytechnique, Institut polytechnique de Paris",
@@ -25,25 +20,16 @@
       "courses": []
     }
   ],
-  "awards": [
-    
-  ],
-  "certificates": [
-    
-  ],
-  "publications": [
-    
-  ],
-  "skills": [
-    
-  ],
-  "Teaching": [
-  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "Teaching": [],
   "languages": [
     {
       "language": "French & German",
       "fluency": "Native speaker",
-      "icon": "" 
+      "icon": ""
     },
     {
       "language": "English",
@@ -53,7 +39,5 @@
   ],
   "interests": [],
   "references": [],
-  "projects": [
-    
-  ]
+  "projects": []
 }
