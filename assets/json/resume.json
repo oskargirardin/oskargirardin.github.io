@@ -18,9 +18,9 @@
       "courses": []
     },
     {
-      "institution": "CentraleSupelec \& ESSEC",
+      "institution": "CentraleSupelec & ESSEC",
       "location": "Paris, France",
-      "studyType": "Master in Data Science \& Business Analytics",
+      "studyType": "Master in Data Science & Business Analytics",
       "startDate": "2021",
       "endDate": "2023",
       "courses": ["Reinforcement Learning", "Machine Learning", "Optimization", "Statistics"]
@@ -33,46 +33,48 @@
       "endDate": "2020"
     }
   ],
-  "awards": [{"title": "ESSEC Excellence Scholarship", "date": "2021", "summary": "Merit-based Scholarship that covers around 1/3rd of the tuition fees"}],
+  "awards": [
+    { "title": "ESSEC Excellence Scholarship", "date": "2021", "summary": "Merit-based Scholarship that covers around 1/3rd of the tuition fees" }
+  ],
   "certificates": [],
   "publications": [],
   "work": [
-      {
-          "name": "Deutsche Bundesbank",
-          "position": "Internship in Banking Supervision & Research",
-          "url": "",
-          "startDate": "2021-02",
-          "endDate": "2021-07",
-          "summary": "Modelled financial risks using econometric techniques (Fixed Effects estimation, difference-in-differences). Conducted analyses on behalf of the Task Force on Evaluations, appointed by the Basel Committee on Banking Supervision, to evaluate the effectiveness of Basel III.",
-          "highlights": ["Stata", "Excel", "R"],
-          "location": "Frankfurt, Germany"
-      },
-      {
-          "name": "UniCredit Bank",
-          "position": "Internship in Economic Research",
-          "url": "",
-          "startDate": "2020-10",
-          "endDate": "2020-12",
-          "summary": "Developed timely prediction models for GDP (Nowcasting) using econometric techniques such as OLS and PCA. Maintained and updated Macroeconomic Databases. Produced impactful data visualizations and coordinated the weekly research publication 'Macro & Markets Weekly'.",
-          "highlights": ["R", "Excel", "Bloomberg"],
-          "location": "Munich, Germany"
-      },
-      {
-          "position": "Private tutor for high-school students",
-          "url": "",
-          "startDate": "2016",
-          "endDate": "2024",
-          "summary": "Tutored French and German high school students in Mathematics and French.",
-          "highlights": []
-      }
+    {
+      "name": "Deutsche Bundesbank",
+      "position": "Internship in Banking Supervision & Research",
+      "url": "",
+      "startDate": "2021-02",
+      "endDate": "2021-07",
+      "summary": "Modelled financial risks using econometric techniques (Fixed Effects estimation, difference-in-differences). Conducted analyses on behalf of the Task Force on Evaluations, appointed by the Basel Committee on Banking Supervision, to evaluate the effectiveness of Basel III.",
+      "highlights": ["Stata", "Excel", "R"],
+      "location": "Frankfurt, Germany"
+    },
+    {
+      "name": "UniCredit Bank",
+      "position": "Internship in Economic Research",
+      "url": "",
+      "startDate": "2020-10",
+      "endDate": "2020-12",
+      "summary": "Developed timely prediction models for GDP (Nowcasting) using econometric techniques such as OLS and PCA. Maintained and updated Macroeconomic Databases. Produced impactful data visualizations and coordinated the weekly research publication 'Macro & Markets Weekly'.",
+      "highlights": ["R", "Excel", "Bloomberg"],
+      "location": "Munich, Germany"
+    },
+    {
+      "position": "Private tutor for high-school students",
+      "url": "",
+      "startDate": "2016",
+      "endDate": "2024",
+      "summary": "Tutored French and German high school students in Mathematics and French.",
+      "highlights": []
+    }
   ],
   "skills": [
-      {"name": "Python", "proficiency": "Advanced", "icon": "ti ti-brand-python"},
-      {"name": "R", "proficiency": "Intermediate", "icon": "si si-r"},
-      {"name": "C++", "proficiency": "Intermediate", "icon": "si si-cplusplus"},
-      {"name": "SQL", "proficiency": "Beginner", "icon": "si si-mysql"}
+    { "name": "Python", "proficiency": "Advanced", "icon": "ti ti-brand-python" },
+    { "name": "R", "proficiency": "Intermediate", "icon": "si si-r" },
+    { "name": "C++", "proficiency": "Intermediate", "icon": "si si-cplusplus" },
+    { "name": "SQL", "proficiency": "Beginner", "icon": "si si-mysql" }
   ],
-  "Teaching": ["Introduction to Probablity \& Statistics", "Numerical Analysis", "Introduction to Python"],
+  "Teaching": ["Introduction to Probablity & Statistics", "Numerical Analysis", "Introduction to Python"],
   "languages": [
     {
       "language": "French & German",
