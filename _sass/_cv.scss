@@ -1,6 +1,7 @@
 /*****************************
  * CV shared styles
  *****************************/
+/* @import "https://www.nerdfonts.com/assets/css/webfont.css" */
 
 div.container-link-button {
   margin-right: 0.5rem;
@@ -123,6 +124,13 @@ td.list-group-category-icon {
   font-size: 0.8rem;
   color: var(--global-theme-color);
   width: 1.4rem;
+  padding-right: 0.4rem;
+}
+
+td.skills-icon {
+  font-size: 1.4rem;
+  color: var(--global-theme-color);
+  width: 1.8rem;
   padding-right: 0.4rem;
 }
 
