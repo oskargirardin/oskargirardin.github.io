@@ -50,13 +50,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-paper-classification-based-linear-surrogate-modeling-of-constraints-for-al-cma-es-got-accepted-in-the-proceedings-of-gecco-25",
-          title: 'The paper Classification-Based Linear Surrogate Modeling of Constraints for AL-CMA-ES got accepted in...',
-          description: "",
-          section: "News",},{id: "news-attended-gecco-25-and-presented-in-the-track-on-evolutionary-numerical-optimization-and-in-the-workshop-on-black-box-optimization-benchmarking-2025",
-          title: 'Attended GECCO ‘25 and presented in the track on Evolutionary Numerical Optimization and...',
-          description: "",
-          section: "News",},{
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
